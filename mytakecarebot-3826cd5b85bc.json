@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mytakecarebot",
+  "private_key_id": "3826cd5b85bc0f69e941b799809e3d0410900dfc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9vEp451WZnHWP\nZo5bIrK7nixbbBqStY0dgPYOgGP6RVH7vxplJL6ZZgoAnia2xX/Dfm77N9gEYc0A\nppdLTpQqo1XDyyhKVau+eVwxie7TNBcMp1mndexyHDFi/GUD6kH/h0EyypUdlNqD\n7Ii1nxcKO3fP0kxeXJdIsv7gZ9eKY6hbzFN7Xox2GfyDOyuuQTJdqyuzF0z49H9p\n2qeA8msTJLgb5OAELNRXjUcm5zUXG3KHIGxiUVXm+z/RChavHXk8p/QcmVRI09s4\nd6VNYvYvnscvdarA3SMvDWPjOKYyM7QmdJrf6p2ldXhU91WWno90teI8GKgLRBRG\ndUPdOmpFAgMBAAECggEABFbJwjWSItLt6lNfVoy21y0RGR8iBXBi84WHOwIrJyZO\nL2pppV3/gN0RRf3X506hcxxRV+vpRAJjkIv+wkFgCJCXLcTX3UlTxeWbGuPrYwea\nLlcmaPq8p0hnRbr9aWdCTqBueIWi/tvwWlt+rd6fRYPiI83MoszNxeMYCpQ9XOQL\n95eyDBCSyqSi2JJwEQFi3CzAXgCLHQ3cGiFoTzeuAW+O1eWzrvQT8a+8hrwajFdw\nKYfknsz9J4JbJrZPvVMhk/eBjKV2RV8Sy4o+hEVjZnoAnF7K5bf1brizJ+AZ8dMb\nW7wPT0SRYtaTuiA9RW7XQ9y+K/tlyab8MThVCzLHkQKBgQDkji2CKb9L1PkO48WA\nduWmwVDj+8tOD1itfQFslogKbTvLea+BekMWT0BbAAuvK10fbyBCNaTJUhn2i3Kb\noozZfu6FQ/2t8gBs2KKbyLZzLticnIZbqilpPsrq7UpQ5ngPXb8VZaBvXsim+2LH\nFTTbjosTnlrN/IloF2cr2UVelQKBgQDUhMkGvNOsM7zg8o1uKWbtWIW+bXrc8pSp\nfOGyCJueKYzP3CYnTFWgLlwsbHCiPeeo40vvd/B/AKiiuK4/zDwXE8FJlW93kOKE\n8cghpHXosz5QxYLBvgi4f6GXZP+Sq+6vMA//+ilGE8fAcqb6mSLeWmbBVw65+siI\n4G+flwLg8QKBgGO8o6FUhHUcGB9mSA6aU/ckDx+eBocm7USv80ommnEqX9iYXn07\nFEGNDgFoELE9VCLehI5ACIwN9uR+z+GY2qwi1wVyuSYKICNfmf4vZWb4P3CAYaVo\nqS+TRkukhzSsjiHuf+9fbNaM3zT3KJDF8U4Kcyh5hxiypme1JsGcy8fNAoGAIYbN\nO/3gGuOSoZ5CR6XKchksCE23O1Idt9tWs8J94mbFqykc78gwHfQSYIO/BSlk+ZTa\nLu4qB68v63PdMX1j4XQhYx1rF17JDZYjL4OFgm98njt6lFwJfinMcVjipN3w6rxX\nWde6WS7XrXmo9BHimVeDrG6yiQ6SQl293lxxfNECgYA06hC5sV2RZs0ioDBZZ2HE\nnX0u+vyHNKMJ29JqDIFoim3R3rDdjJx3ojaBkLPPJgk4FuYIp5I9ujoPJZH9dLmv\ne3lHaOcpOmdYqSNpa7cu/Vt3MWmET0IqMG+bRxRncllh2cW6iXo+d4btALYRSeq6\nj/h5a5nA7prskatJqcneEA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-takecare@mytakecarebot.iam.gserviceaccount.com",
+  "client_id": "110549550675726563168",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-takecare%40mytakecarebot.iam.gserviceaccount.com"
+}
